@@ -18,4 +18,10 @@ DAY 2
 -reruirement gathering,analysis,design, implementation,testing and maintenance. 
 * Jira
 -powerful project management and issue tracking tool developed by Atlassian.
--Scrum is a popular Agile framework used for managing and completeing complex projects. 
+-Scrum is a popular Agile framework used for managing and completeing complex projects.
+
+DAY 3
+* Data Science Life Cycle 
+ Problem Understanding,Data Mining,Data Cleaning,EDA-Exploratory Data Analysis,Feature Engineering,Predictive Modelling.
+* Machine Learning classifications -supervised and unsupervised learning.
+* Python Programming Language and its features.
