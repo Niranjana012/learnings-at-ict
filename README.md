@@ -1,5 +1,6 @@
 # learnings-at-ict
-Repository consists of each day learning at ict academy of kerala 
+Repository consists of each day learning at ict academy of kerala.
+
 DAY 1 
 * EdClub
   EdClub offers a comprehensive touch typing course to help users develop muscle memory and improve  typing speed and accuracy.
