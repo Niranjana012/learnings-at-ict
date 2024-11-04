@@ -12,3 +12,10 @@ DAY 1
   A free open source,online Markdown editor that allows to create and edit documents in markdown format.
 * Visual Studio Code
   created a sample project in visual studio code,which is an open source code editor.
+
+DAY 2
+* Software Development Life Cycle  
+-reruirement gathering,analysis,design, implementation,testing and maintenance. 
+* Jira
+-powerful project management and issue tracking tool developed by Atlassian.
+-Scrum is a popular Agile framework used for managing and completeing complex projects. 
