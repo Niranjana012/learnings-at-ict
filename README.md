@@ -50,8 +50,8 @@ DAY 3
   -visually inspecting correlation between 2 variables                    
 * Histograms             
   -frequency/relative frequency             
-*probability density function              
+* probability density function              
   -cumulative density function                 
   -advantages compared to PDF             
- *Bor plot                  
+ * Bor plot                  
   -shows median(Q2),Q1,Q3,lower bound, upper bound,outliers           
