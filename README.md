@@ -27,7 +27,7 @@ DAY 3
 * Machine Learning classifications -supervised and unsupervised learning.
 * Python Programming Language and its features.
 
-  DAY 4
+DAY 4    
 * Measures of central tendancy     
   -mean        
   -median       
