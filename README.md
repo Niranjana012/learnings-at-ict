@@ -53,5 +53,5 @@ DAY 4
 * probability density function              
   -cumulative density function                 
   -advantages compared to PDF             
- * Bor plot                  
+ * Bar plot                  
   -shows median(Q2),Q1,Q3,lower bound, upper bound,outliers           
