@@ -29,8 +29,8 @@ DAY 3
 
   DAY 4
 * Measures of central tendancy
-  -mean
-  -median
+  -mean.   
+  -median.
   -mode
   -percentile
   -quatilers(Q1,Q2,Q3)
