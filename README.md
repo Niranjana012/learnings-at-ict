@@ -69,7 +69,7 @@ DAY 5
   distribution
 * Null hypothesis: The population mean equals the hypothesized mean.
 * Alternative hypothesis: The population mean differs from the hypothesized mean.    
-* The significance level, also denoted as alpha or α, is the probability of rejecting the null hypothesis when it is true.
-*p valve will be (0.05) or (0.01).
+* The significance level, also denoted as alpha or α, is the probability of rejecting the null hypothesis when it is true.   
+* p valve will be (0.05) or (0.01).
  - if t value is less than alpha value,then there exist some significance.means alternate hypothesis.
   
