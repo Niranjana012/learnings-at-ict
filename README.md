@@ -39,7 +39,7 @@ DAY 4
 * Finding outlier using Quartilers                
   *Measures of dispersion               
   -range                 
-  -variance                    
+  -variance= square of standard deviation                  
   -standard deviation                 
   -z score(used for standardization)                    
   confidence interval                       
@@ -54,4 +54,7 @@ DAY 4
   -cumulative density function                 
   -advantages compared to PDF             
  * Bar plot                  
-  -shows median(Q2),Q1,Q3,lower bound, upper bound,outliers           
+  -shows median(Q2),Q1,Q3,lower bound, upper bound,outliers
+
+DAY 5 
+* 
