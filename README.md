@@ -1,5 +1,5 @@
 # learnings-at-ict
-Repository consists of each day learning at ict academy of kerala.
+Repository consists of each day learnings at ict academy of kerala.
 
 DAY 1 
 * EdClub
