@@ -1,20 +1,3 @@
 
 
-## 1. What is a Database and its Types?  
-    A database is a structured collection of data that is stored and accessed electronically.    
-  Databases are designed to store, manage, and retrieve data efficiently.        
-    There are different types of databases, classified based on their structure, the nature of the data they store, and how they are used.
 
-### Types of Databases:
-
-Relational Database (RDBMS): Stores data in tables (rows and columns) and uses SQL for querying. Examples: MySQL, PostgreSQL, Oracle, Microsoft SQL Server.
-  
-NoSQL Database: Stores data in formats other than tables (e.g., key-value pairs, documents, graphs). Examples: MongoDB (document-based), Redis (key-value), Neo4j (graph-based).
-  
-Object-Oriented Database: Stores data in objects (similar to how programming languages like Java and C++ handle data). Examples: db4o, ObjectDB.
-  
-Hierarchical Database: Organizes data in a tree-like structure, where each child node has only one parent. Example: IBM's IMS.
-  
-Network Database: Similar to hierarchical databases but allows more complex relationships. Example: Integrated Data Store (IDS).
-  
-Distributed Database: A database where data is stored across multiple physical locations. Example: Apache Cassandra.
